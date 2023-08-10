@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jerry! <br/><a href="https://linkedin.com/in/gerardoagonzalez">Aspiring data scientist</a></h1>
+<h1>Hi, I'm Jerry Gonzalez! <br/><a href="https://linkedin.com/in/gerardoagonzalez">Aspiring data scientist and former hardware/systems engineer</a></h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
@@ -8,8 +8,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JerryGonzalez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JerryGonzalez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JerryGonzalez | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />][twitter]
+[<img align="left" alt="JerryGonzalez | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
 
 [twitter]: https://twitter.com/GonzalezJerry16
 [linkedin]: https://linkedin.com/in/gerardoagonzalez
