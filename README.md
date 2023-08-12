@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jerry Gonzalez! <br/><a href="https://linkedin.com/in/gerardoagonzalez">Aspiring data scientist and former hardware/systems engineer</a></h1>
+<h1>Hi, I'm Jerry Gonzalez! <br/><a href="https://linkedin.com/in/gerardoagonzalez">Data scientist and hardware/systems engineer</a></h1>
 
 <h2>I am currently a MIDS student at the UC Berkeley School of Information</h2>
 - <b>Course work</b>
