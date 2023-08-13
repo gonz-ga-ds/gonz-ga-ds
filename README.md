@@ -14,7 +14,7 @@
       <li>DATASCI 200: Introduction to Data Science Programming</li>
       <li>DATASCI 203: Statistics for Data Science</li>
       <li>DATASCI 205: Fundamentals of Data Engineering</li>
-      <li>DATASCI 201: Applied Machine Learning</li>
+      <li>DATASCI 207: Applied Machine Learning</li>
     </ul>
   </li>
 </ul>
