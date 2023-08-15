@@ -8,13 +8,19 @@
 
 <h2>I am currently a MIDS student at the UC Berkeley School of Information</h2>
 <ul>
-  <li><b>Course work</b>
+  <li><b>Completed Course work</b>
     <ul>
       <li>DATASCI 201: Research Design and Applications for Data and Analysis</li>
       <li>DATASCI 200: Introduction to Data Science Programming</li>
       <li>DATASCI 203: Statistics for Data Science</li>
       <li>DATASCI 205: Fundamentals of Data Engineering</li>
       <li>DATASCI 207: Applied Machine Learning</li>
+    </ul>
+  </li>
+  <li><b>Current Course work</b>
+    <ul>
+      <li>DATASCI 209: Data Visualization</li>
+      <li>DATASCI 241: Experiments and Causal Inference</li>
     </ul>
   </li>
 </ul>
