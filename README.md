@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
 
 <h1>Hi, I'm Jerry Gonzalez!<br/><a href="https://linkedin.com/in/gerardoagonzalez">Data scientist and hardware/systems engineer</a></h1>
 
@@ -39,7 +34,4 @@
 
 [twitter]: https://twitter.com/GonzalezJerry16
 [linkedin]: https://linkedin.com/in/gerardoagonzalez
-
-</body>
-</html>
 
