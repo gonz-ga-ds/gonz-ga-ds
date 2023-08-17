@@ -21,11 +21,22 @@
 </ul>
 
 <h2>👨‍💻 Data Science Projects:</h2>
+<ul>
+  <li>
+    <b>Research methods and statistical techniques</b><br>
+    <a href="https://github.com/gonz-ga-ds">Exploring Difficulty Voting in the 2020 Election</a>
+    <p>This was a 3-person project where we did exploratory data analysis, t-test formulation, graphs and a final report that analyzed the following question: Did Democratic voters or Republican voters experience more difficulty voting in the 2020 election? The report was produced using the RStudio IDE and R Markdown file format.</p>
+  </li>
+  <li>
+    <b>Machine learning project</b><br>
+    <a href="https://github.com/gonz-ga-ds">use ML techniques to distinguish emergency vehicles from regular road noise in order to improve traffic flow and reduce congestion</a>
+    <p>This was a 4-person project that used ML techniques to distinguish emergency vehicles from regular road noise in order to improve traffic flow and reduce congestion</p>
+  </li>
+</ul>
 <img align="left" width="250" height="150" src="./images/underConstruction.jpg">
 <br style="clear:both;" />
 <br />
-<br />
-<br />
+
 
 <h2>🤳 Connect with me:</h2>
 
