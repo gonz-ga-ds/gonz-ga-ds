@@ -24,7 +24,7 @@
 <ul>
   <li>
     <b>Research methods and statistical techniques</b><br>
-    <a href="https://github.com/gonz-ga-ds">Exploring Difficulty Voting in the 2020 Election</a>
+    <a href="https://github.com/gonz-ga-ds/VotingDifficulty2020Election">Exploring Difficulty Voting in the 2020 Election</a>
     <p>This was a 3-person project where we did exploratory data analysis, t-test formulation, graphs and a final report that analyzed the following question: Did Democratic voters or Republican voters experience more difficulty voting in the 2020 election? The report was produced using the RStudio IDE and R Markdown file format.</p>
   </li>
   <li>
