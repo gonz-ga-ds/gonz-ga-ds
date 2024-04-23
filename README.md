@@ -4,7 +4,7 @@
 <h2>About me</h2>
 <p>I am a bilingual, multifaceted data scientist with experience in data science, machine learning, and process improvements.
 I leverages solid analytical, problem solving, and communication capabilities to track projects, build interactive reports, visualizations, and communicate actionable insights to create value for organizations and clients. My strengths include the ability to quickly learn, and implement concepts and technical tools to improve operational efficiency and enhance profitability. I excel independently, and as part of a team, in fast paced environments.</p>
-<p>I am also currently a MIDS student at the UC Berkeley School of Information</p>
+<p>MIDS student at the UC Berkeley School of Information - graduation Spring 2024</p>
 <ul>
   <li><b>Completed Course work</b>
     <ul>
@@ -13,12 +13,10 @@ I leverages solid analytical, problem solving, and communication capabilities to
       <li>DATASCI 203: Statistics for Data Science</li>
       <li>DATASCI 205: Fundamentals of Data Engineering</li>
       <li>DATASCI 207: Applied Machine Learning</li>
-    </ul>
-  </li>
-  <li><b>Current Course work</b>
-    <ul>
       <li>DATASCI 209: Data Visualization</li>
       <li>DATASCI 241: Experiments and Causal Inference</li>
+      <li>DATASCI 281: Computer Vision</li>
+      <li>DATASCI 210: Capstone</li>
     </ul>
   </li>
 </ul>
@@ -27,12 +25,12 @@ I leverages solid analytical, problem solving, and communication capabilities to
 <ul>
   <li>
     <b>Research methods and statistical techniques</b><br>
-    <a href="https://github.com/gonz-ga-ds/VotingDifficulty2020Election">Exploring Difficulty Voting in the 2020 Election</a>
+    <a href="https://github.com/UC-Berkeley-I-School/Project2_Gonzalez_Lu_Desai">Exploring Difficulty Voting in the 2020 Election</a>
     <p>This was a 3-person project where we did exploratory data analysis, t-test formulation, graphs and a final report that analyzed the following question: Did Democratic voters or Republican voters experience more difficulty voting in the 2020 election? The report was produced using the RStudio IDE and R Markdown file format.</p>
   </li>
   <li>
     <b>Machine learning project</b><br>
-    <a href="https://github.com/gonz-ga-ds">use ML techniques to distinguish emergency vehicles from regular road noise in order to improve traffic flow and reduce congestion</a>
+    <a href="https://github.com/UC-Berkeley-I-School/mids-207-final-project-summer23-Nick-Frances-Jerry-Chi">use ML techniques to distinguish emergency vehicles from regular road noise in order to improve traffic flow and reduce congestion</a>
     <p>This was a 4-person project that used ML techniques to distinguish emergency vehicles from regular road noise in order to improve traffic flow and reduce congestion</p>
   </li>
 </ul>
