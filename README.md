@@ -32,5 +32,8 @@ In this three-person project, we performed exploratory data analysis, formulated
 In this four-person project, we applied machine learning techniques to distinguish emergency vehicle sirens from regular road noise to improve traffic flow and reduce congestion.</p>
 
 <h2>🤳 Connect with me:</h2>
-<p><a href="https://twitter.com/GonzalezJerry16"><img src="https://cdn.simpleicons.org/twitter" alt="JerryGonzalez | Twitter"></a>
-<a href="https://linkedin.com/in/gerardoagonzalez"><img src="https://cdn.simpleicons.org/linkedin" alt="JerryGonzalez | LinkedIn"></a></p>
+[<img align="left" alt="JerryGonzalez | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />][twitter]
+[<img align="left" alt="JerryGonzalez | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
+
+[twitter]: https://twitter.com/GonzalezJerry16
+[linkedin]: https://linkedin.com/in/gerardoagonzalez
