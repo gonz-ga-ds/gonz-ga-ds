@@ -19,17 +19,14 @@ Currently, I am a MIDS student at the UC Berkeley School of Information, expecti
 
 ## 👨‍💻 Data Science Projects
 
-### Research methods and statistical techniques
-**[Exploring Difficulty Voting in the 2020 Election](https://github.com/UC-Berkeley-I-School/Project2_Gonzalez_Lu_Desai)**  
-In this three-person project, we performed exploratory data analysis, formulated t-tests, and created visualizations to explore whether Democratic or Republican voters experienced more difficulties voting in the 2020 election. This report was generated using RStudio and R Markdown.
+### Capstone project
+**[JeopardyLLM: Adventures in Retrieval-Augmented Generation](https://www.ischool.berkeley.edu/projects/2024/jeopardyllm-adventures-retrieval-augmented-generation)**  
+This project explores retrieval-augmented generation technologies by using questions found on the popular game show Jeopardy. Our data includes 470,000 Jeopardy clues from 39 seasons. Using this, we deployed a framework by which old clues are embedded and stored in a vector database, then contexts are created from novel questions and along with a prompt, fed to a FLAN-T5 large language model. This was successfully deployed as JeopardyLLM, an online interactive website where users can engage with and discover answers to questions based solely on knowledge gained from old Jeopardy clues. When measured on newer championship-level Jeopardy questions, accuracy was found to be 31.7%
 
 ### Machine learning project
 **[Distinguish Emergency Vehicles in Traffic](https://github.com/UC-Berkeley-I-School/mids-207-final-project-summer23-Nick-Frances-Jerry-Chi)**  
 In this four-person project, we applied machine learning techniques to distinguish emergency vehicle sirens from regular road noise to improve traffic flow and reduce congestion.
 
-![Under Construction](./images/underConstruction.jpg)
-
-## 🤳 Connect with me:
-
-[![JerryGonzalez | Twitter](https://cdn.simpleicons.org/twitter)](https://twitter.com/GonzalezJerry16)
-[![JerryGonzalez | LinkedIn](https://cdn.simpleicons.org/linkedin)](https://linkedin.com/in/gerardoagonzalez)
+### Research methods and statistical techniques
+**[Exploring Difficulty Voting in the 2020 Election](https://github.com/UC-Berkeley-I-School/Project2_Gonzalez_Lu_Desai)**  
+In this three-person project, we performed exploratory data analysis, formulated t-tests, and created visualizations to explore whether Democratic or Republican voters experienced more difficulties voting in the 2020 election. This report was generated using RStudio and R Markdown.
