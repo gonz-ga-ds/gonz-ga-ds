@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jerry Gonzalez's Portfolio</title>
+    <style>
+        body {
+            text-align: left; /* Centers text elements */
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center; /* Centers block-level elements */
+            justify-content: center;
+            min-height: 100vh;
+        }
+        img {
+            max-width: 100%; /* Ensures images are responsive */
+        }
+        a {
+            color: #007bff; /* Example link color */
+            text-decoration: none; /* No underline */
+        }
+        a:hover {
+            text-decoration: underline; /* Underline on hover */
+        }
+        .social-icons img {
+            width: 30px; /* Set the width of the icons */
+            height: 30px; /* Set the height of the icons */
+            transition: transform 0.3s ease; /* Smooth transformation upon hover */
+        }
+        .social-icons a:hover img {
+            transform: scale(1.1); /* Make icons slightly larger on hover */
+        }
+        .left-aligned {
+            text-align: left;
+            width: 100%; /* Sets the width to match the container for proper alignment */
+            max-width: 800px; /* You can adjust this value based on your design preference */
+}
+    </style>
+</head>
+<body>
+    <h1>Hi, I'm Jerry Gonzalez!</h1>
+    <p><a href="https://linkedin.com/in/gerardoagonzalez">Data scientist and hardware/systems engineer</a></p>
+
+    <h2>About me</h2>
+    <p class="left-aligned">I am a bilingual, multifaceted data scientist with a background in machine learning, data science, and process improvements. I leverage strong analytical, problem-solving, and communication skills to manage projects, create interactive reports, visualizations, and deliver actionable insights that add value to organizations and clients. I excel in quickly grasping and implementing new concepts and tools, improving operational efficiency, and boosting profitability. I thrive both independently and as part of a team in dynamic environments.</p>
+    <p>Currently, I am a MIDS student at the UC Berkeley School of Information, expected Spring 2024.</p>
+
+    <h3>Completed Coursework:</h3>
+    <ul>
+        <li>DATASCI 201: Research Design and Applications for Data and Analysis</li>
+        <li>DATASCI 200: Introduction to Data Science Programming</li>
+        <li>DATASCI 203: Statistics for Data Science</li>
+        <li>DATASCI 205: Fundamentals of Data Engineering</li>
+        <li>DATASCI 207: Applied Machine Learning</li>
+        <li>DATASCI 209: Data Visualization</li>
+        <li>DATASCI 241: Experiments and Causal Inference</li>
+        <li>DATASCI 281: Computer Vision</li>
+        <li>DATASCI 210: Capstone</li>
+    </ul>
+
+    <h2>👨‍💻 Data Science Projects</h2>
+
+    <h3>My Capstone Project</h3>
+    <p class="left-aligned"><strong><a href="https://www.ischool.berkeley.edu/projects/2024/jeopardyllm-adventures-retrieval-augmented-generation">JeopardyLLM: Adventures in Retrieval-Augmented Generation</a></strong><br>
+    This project explores retrieval-augmented generation technologies by using questions found on the popular game show Jeopardy. Our data includes 470,000 Jeopardy clues from 39 seasons. Using this, we deployed a framework by which old clues are embedded and stored in a vector database, then contexts are created from novel questions and along with a prompt, fed to a FLAN-T5 large language model. This was successfully deployed as JeopardyLLM, an online interactive website where users can engage with and discover answers to questions based solely on knowledge gained from old Jeopardy clues. When measured on newer championship-level Jeopardy questions, accuracy was found to be 31.7%</p>
+
+    <h3>Machine learning project</h3>
+    <p class="left-aligned"><strong><a href="https://github.com/UC-Berkeley-I-School/mids-207-final-project-summer23-Nick-Frances-Jerry-Chi">Distinguish Emergency Vehicles in Traffic</a></strong><br>
+    In this project, we applied machine learning techniques to distinguish emergency vehicle sirens from regular road noise to improve traffic flow and reduce congestion.</p>
+    
+    <h3>Research methods and statistical techniques</h3>
+    <p class="left-aligned"><strong><a href="https://github.com/UC-Berkeley-I-School/Project2_Gonzalez_Lu_Desai">Exploring Difficulty Voting in the 2020 Election</a></strong><br>
+    In this project, we performed exploratory data analysis, formulated t-tests, and created visualizations to explore whether Democratic or Republican voters experienced more difficulties voting in the 2020 election. This report was generated using RStudio and R Markdown.</p>
+
+
+    <h2>🤳 Connect with me:</h2>
+    <p class="social-icons">
+        <a href="https://twitter.com/GonzalezJerry16">
+            <img src="https://cdn.simpleicons.org/twitter" alt="JerryGonzalez | Twitter">
+        </a>
+        <a href="https://linkedin.com/in/gerardoagonzalez">
+            <img src="https://cdn.simpleicons.org/linkedin" alt="JerryGonzalez | LinkedIn">
+        </a>
+    </p>
+</body>
+</html>
